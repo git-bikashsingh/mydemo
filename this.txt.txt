@@ -1,0 +1,6 @@
+this is my name
+<<<<<<< HEAD
+cddfsdfs
+=======
+i love india
+>>>>>>> c6762ae556fcc86630f5db3d40a95ce810d25d24
